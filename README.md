@@ -1,3 +1,4 @@
 # AssetBundle
 
-* This is problem solving about https://www.acmicpc.net/
+* This is repository of Unity_ARCore
+
