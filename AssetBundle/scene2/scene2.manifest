@@ -1,0 +1,61 @@
+ManifestFileVersion: 0
+CRC: 1348848334
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: sofa1
+      Dependencies: {}
+    Info_1:
+      Name: sofa2
+      Dependencies: {}
+    Info_2:
+      Name: sofa3
+      Dependencies: {}
+    Info_3:
+      Name: sofa4
+      Dependencies: {}
+    Info_4:
+      Name: sofa5
+      Dependencies: {}
+    Info_5:
+      Name: table1
+      Dependencies: {}
+    Info_6:
+      Name: table2
+      Dependencies: {}
+    Info_7:
+      Name: table3
+      Dependencies: {}
+    Info_8:
+      Name: table4
+      Dependencies: {}
+    Info_9:
+      Name: desk1
+      Dependencies: {}
+    Info_10:
+      Name: desk2
+      Dependencies: {}
+    Info_11:
+      Name: bed1
+      Dependencies: {}
+    Info_12:
+      Name: bed2
+      Dependencies: {}
+    Info_13:
+      Name: cabinet1
+      Dependencies: {}
+    Info_14:
+      Name: cabinet2
+      Dependencies: {}
+    Info_15:
+      Name: chair1
+      Dependencies: {}
+    Info_16:
+      Name: chair2
+      Dependencies: {}
+    Info_17:
+      Name: chair3
+      Dependencies: {}
+    Info_18:
+      Name: chair4
+      Dependencies: {}
